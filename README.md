@@ -1,0 +1,46 @@
+# Imperium Andromedy — oficjalna witryna projektu (Etap II)
+
+**Wersja:** 1.0 (10 listopada 2026 r.)  
+**Stan:** gotowa statyczna strona internetowa; **nie została jeszcze opublikowana w Internecie**.  
+**Koszt przygotowania:** 0,00 zł.  
+**Język:** polski.
+
+## Zawartość
+
+- `index.html` — witryna główna, flaga, władze, misja, bilans, etapy rozwoju;
+- `konstytucja.html` — pełny tekst zatwierdzonej Konstytucji;
+- `finanse.html` — pełny tekst planu budżetowego Fazy I;
+- `archiwum.html` — publiczny rejestr aktów i oryginalna odezwa Jakuba I;
+- `dokumenty/` — pobieralne oryginalne pliki DOCX;
+- `assets/` — grafika flagi, herbu, style i skrypt mobilnej nawigacji.
+
+Witryna jest responsywna i działa także lokalnie, bez serwera i bez połączenia internetowego. Nie ma formularzy gromadzących dane osobowe, pikseli reklamowych, narzędzi analitycznych ani ciasteczek śledzących.
+
+## Jak uruchomić lokalnie
+
+Otwórz `index.html` dwukrotnym kliknięciem. Możesz też uruchomić lokalny serwer z katalogu strony:
+
+```bash
+python -m http.server 8000
+```
+
+Następnie otwórz `http://localhost:8000/`.
+
+## Publikacja w GitHub Pages
+
+1. Na koncie GitHub utwórz nowe **publiczne repozytorium** dla projektu, np. `imperium-andromedy` (albo wykorzystaj istniejące repozytorium przeznaczone do tego projektu).
+2. Prześlij do głównego katalogu repozytorium pliki z tej paczki (tak, by `index.html` leżał w katalogu głównym).
+3. Otwórz **Settings → Pages**, wybierz **Deploy from a branch**, gałąź `main`, folder `/ (root)`, następnie **Save**.
+4. Po opublikowaniu witryna będzie dostępna pod adresem `https://NAZWA_UŻYTKOWNIKA.github.io/imperium-andromedy/` (zależnie od nazwy repozytorium).
+5. Opcjonalnie kup domenę `.pl` i ustaw ją w **Settings → Pages → Custom domain** oraz u rejestratora domeny. **Nie rób tego, zanim nie zdecydujesz o wydatku i nie sprawdzisz dostępności domeny**.
+
+### Ważne
+
+- Nie przesyłaj do publicznego repozytorium wewnętrznego rejestru obywateli lub prywatnej księgowości bez sprawdzenia danych.
+- Jeśli w kolejnych miesiącach pojawią się potwierdzone wydatki, zmień informację „0 zł zarejestrowanych wydatków” na stronie i zapisz datę aktualizacji.
+- Roszczenie do M31 ma charakter deklaracji projektu, bez skutku prawnego jako uznana suwerenność.
+- Nie dodano pliku `CNAME`, bo nie posiadamy potwierdzenia rejestracji domeny.
+
+## Budżet Etapu II
+
+W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Na razie żadnego z tych zakupów nie dokonano. Hosting może pozostać bezpłatny.
