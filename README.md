@@ -2,7 +2,7 @@
 
 **Wersja:** 1.3 (11 listopada 2026 r.)\
 **Stan:** strona opublikowana pod https://imperiumandromedy.pl, domena i HTTPS aktywne.  
-**Wydatki projektu (11.11.2026):** 68,52 zł; pozostało 231,48 zł. Koszt domeny 20,53 zł, zakup MEDA z dostawą 47,99 zł. Dostawy sprzętu jeszcze nie potwierdzono.  
+**Zakupy projektu (11.11.2026):** 105,40 zł; środki niezaangażowane 194,60 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł. Pendrive zamówiono, płatność do potwierdzenia; dostaw obu urządzeń nie potwierdzono.  
 **Język:** polski.
 
 ## Zawartość
@@ -43,12 +43,12 @@ Następnie otwórz `http://localhost:8000/`.
 
 ## Infrastruktura cyfrowa w budżecie Fazy I
 
-W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Domenę opłacono: 20,53 zł; pozostałe 39,47 zł w dziale IT pozostaje niewydane. Hosting GitHub Pages jest bezpłatny.
+W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Domenę opłacono: 20,53 zł. Pendrive Kingston 64 GB zamówiono za 36,88 zł z dostawą (26,49 zł + 10,39 zł). Razem zakupy IT 57,41 zł, pozostaje 2,59 zł. Płatność pendrive’a wymaga potwierdzenia. Hosting GitHub Pages jest bezpłatny.
 
 
 ## Aktualizacja Skarbu 11.11.2026
 
-Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Dwa wydatki: IA-FIN/001/2026 20,53 zł oraz IA-FIN/002/2026 47,99 zł. W `finanse.html` znajduje się aktualny stan; plan finansowy Word zawiera aneks nr 2. W katalogu `dokumenty/` opublikowano także aktualny plan MEDA, centralny rejestr Excel i historyczną kopię ZIP sprzed korekty odezwy. Linki do pobrania znajdują się w `archiwum.html`.
+Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Trzy zakupy: IA-FIN/001/2026 20,53 zł, IA-FIN/002/2026 47,99 zł oraz IA-FIN/003/2026 36,88 zł. Wydruk dokumentów własną drukarką: 0 zł; materiały Action planowane na 12.11.2026. W `finanse.html` znajduje się aktualny stan; plan finansowy Word zawiera aneks nr 2. W katalogu `dokumenty/` opublikowano także aktualny plan MEDA, centralny rejestr Excel i historyczną kopię ZIP sprzed korekty odezwy. Linki do pobrania znajdują się w `archiwum.html`.
 
 ## Zabezpieczenia witryny
 
