@@ -10,7 +10,7 @@
 - `index.html` — witryna główna, flaga, władze, misja, bilans, etapy rozwoju;
 - `konstytucja.html` — pełny tekst zatwierdzonej Konstytucji;
 - `finanse.html` — pełny tekst planu budżetowego Fazy I;
-- `archiwum.html` — publiczny rejestr aktów i oryginalna odezwa Jakuba I;
+- `archiwum.html` — publiczny rejestr aktów i poprawiona odezwa Jakuba I;
 - `dokumenty/` — aktualne pliki DOCX, rejestr XLSX i kompletne archiwum ZIP;
 - `assets/` — grafika flagi, herbu, style i skrypt mobilnej nawigacji.
 
