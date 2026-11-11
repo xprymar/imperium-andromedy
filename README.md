@@ -48,7 +48,7 @@ W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: 
 
 ## Aktualizacja Skarbu 11.11.2026
 
-Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Trzy zakupy: IA-FIN/001/2026 20,53 zł, IA-FIN/002/2026 47,99 zł oraz IA-FIN/003/2026 36,88 zł. Wydruk dokumentów własną drukarką: 0 zł; materiały Action planowane na 12.11.2026. W `finanse.html` znajduje się aktualny stan; plan finansowy Word zawiera aneks nr 2. W katalogu `dokumenty/` opublikowano także aktualny plan MEDA, centralny rejestr Excel i historyczną kopię ZIP sprzed korekty odezwy. Linki do pobrania znajdują się w `archiwum.html`.
+Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Trzy zakupy: IA-FIN/001/2026 20,53 zł, IA-FIN/002/2026 47,99 zł oraz IA-FIN/003/2026 36,88 zł. Wydruk dokumentów własną drukarką: 0 zł; materiały Action planowane na 12.11.2026. W `finanse.html` znajduje się aktualny stan; plan finansowy Word zawiera aneks nr 2, a aktualny bilans po zakupie pendrive’a jest w osobnym aneksie nr 3. W katalogu `dokumenty/` opublikowano także aktualny plan MEDA, centralny rejestr Excel i historyczną kopię ZIP sprzed korekty odezwy. Linki do pobrania znajdują się w `archiwum.html`.
 
 ## Zabezpieczenia witryny
 
