@@ -11,7 +11,7 @@
 - `konstytucja.html` — pełny tekst zatwierdzonej Konstytucji;
 - `finanse.html` — pełny tekst planu budżetowego Fazy I;
 - `archiwum.html` — publiczny rejestr aktów i oryginalna odezwa Jakuba I;
-- `dokumenty/` — pobieralne oryginalne pliki DOCX;
+- `dokumenty/` — aktualne pliki DOCX, rejestr XLSX i kompletne archiwum ZIP;
 - `assets/` — grafika flagi, herbu, style i skrypt mobilnej nawigacji.
 
 Witryna jest responsywna i działa także lokalnie, bez serwera i bez połączenia internetowego. Nie ma formularzy gromadzących dane osobowe, pikseli reklamowych, narzędzi analitycznych ani ciasteczek śledzących.
@@ -39,13 +39,13 @@ Następnie otwórz `http://localhost:8000/`.
 - Nie przesyłaj do publicznego repozytorium wewnętrznego rejestru obywateli lub prywatnej księgowości bez sprawdzenia danych.
 - Jeśli w kolejnych miesiącach pojawią się potwierdzone wydatki, zmień informację „0 zł zarejestrowanych wydatków” na stronie i zapisz datę aktualizacji.
 - Roszczenie do M31 ma charakter deklaracji projektu, bez skutku prawnego jako uznana suwerenność.
-- Nie dodano pliku `CNAME`, bo nie posiadamy potwierdzenia rejestracji domeny.
+- Plik `CNAME` wskazuje opłaconą domenę imperiumandromedy.pl.
 
 ## Budżet Etapu II
 
-W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Na razie żadnego z tych zakupów nie dokonano. Hosting może pozostać bezpłatny.
+W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Domenę opłacono: 20,53 zł; pozostałe 39,47 zł w dziale IT pozostaje niewydane. Hosting GitHub Pages jest bezpłatny.
 
 
 ## Aktualizacja Skarbu 11.11.2026
 
-Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Dwa wydatki: IA-FIN/001/2026 20,53 zł oraz IA-FIN/002/2026 47,99 zł. W `finanse.html` znajduje się aktualny stan; historyczne pliki Word w katalogu `dokumenty/` mogą wymagać osobnego zastąpienia nowszymi wersjami.
+Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Dwa wydatki: IA-FIN/001/2026 20,53 zł oraz IA-FIN/002/2026 47,99 zł. W `finanse.html` znajduje się aktualny stan; plan finansowy Word zawiera aneks nr 2. W katalogu `dokumenty/` opublikowano także aktualny plan MEDA, centralny rejestr Excel i kompletne archiwum ZIP. Linki do pobrania znajdują się w `archiwum.html`.
