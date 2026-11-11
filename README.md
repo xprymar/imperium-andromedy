@@ -1,8 +1,8 @@
 # Imperium Andromedy — oficjalna witryna projektu (Etap II)
 
-**Wersja:** 1.0 (10 listopada 2026 r.)  
-**Stan:** gotowa statyczna strona internetowa; **nie została jeszcze opublikowana w Internecie**.  
-**Koszt przygotowania:** 0,00 zł.  
+**Wersja:** 1.2 (11 listopada 2026 r.)  
+**Stan:** strona opublikowana pod https://imperiumandromedy.pl, domena i HTTPS aktywne.  
+**Wydatki projektu (11.11.2026):** 68,52 zł; pozostało 231,48 zł. Koszt domeny 20,53 zł, zakup MEDA z dostawą 47,99 zł. Dostawy sprzętu jeszcze nie potwierdzono.  
 **Język:** polski.
 
 ## Zawartość
@@ -44,3 +44,8 @@ Następnie otwórz `http://localhost:8000/`.
 ## Budżet Etapu II
 
 W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Na razie żadnego z tych zakupów nie dokonano. Hosting może pozostać bezpłatny.
+
+
+## Aktualizacja Skarbu 11.11.2026
+
+Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rezerwa 160 zł, infrastruktura cyfrowa 60 zł, dokumentacja 30 zł, badania 50 zł. Dwa wydatki: IA-FIN/001/2026 20,53 zł oraz IA-FIN/002/2026 47,99 zł. W `finanse.html` znajduje się aktualny stan; historyczne pliki Word w katalogu `dokumenty/` mogą wymagać osobnego zastąpienia nowszymi wersjami.
