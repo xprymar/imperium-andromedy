@@ -62,3 +62,7 @@ Polityka CSP w dokumentach HTML dopuszcza skrypty, arkusze stylów i obrazy z do
 ## Aktualizacja Skarbu 12.11.2026
 
 Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączny koszt zakupów i zobowiązań Fazy I wzrósł do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Dotychczasowe zobowiązanie za pendrive pozostaje ujęte w koszcie zakupów, ale płatność nadal wymaga potwierdzenia.
+
+## Status Archiwum Imperialnego — 12.11.2026
+
+Cesarz zgłosił ukończenie fizycznego Archiwum Imperialnego (Tom I). Zapis oparty jest na deklaracji założyciela, bez niezależnej weryfikacji zawartości segregatora. Nie potwierdzono jeszcze wykonania kopii zapasowej na zamówionym pendrivie. Zakończenie Fazy I nadal wymaga zamknięcia bilansu finansowego; nie ogłoszono jej formalnie zakończonej.
