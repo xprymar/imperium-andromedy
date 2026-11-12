@@ -36,7 +36,7 @@ Następnie otwórz `http://localhost:8000/`.
 
 ### Aktualny bilans i archiwum
 
-Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.csv` oraz `dokumenty/Bilans_Skarbu_2026-11-12.md`. Bilans z 11.11.2026 zachowano jako historyczny. Pliki DOCX i XLSX z 11.11.2026 są **historycznymi migawkami** i nie uwzględniają późniejszych zakupów Action; bieżąca ewidencja jest w CSV i na stronie `finanse.html`.
+Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.csv` oraz `dokumenty/Bilans_Skarbu_2026-11-12.md`. Bilans z 11.11.2026 zachowano jako historyczny. Pliki DOCX i XLSX z 11.11.2026 są **historycznymi migawkami** i nie uwzględniają późniejszych zakupów Action; bieżąca ewidencja jest w CSV i w rejestrze Excel z 12.11.2026. Aneks nr 4 w formacie Word jest dostępny na stronie Skarbu i w Archiwum.
 
 ### Ważne
 

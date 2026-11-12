@@ -23,7 +23,9 @@ Kapitał Fazy I: **300,00 zł**. Obowiązujące limity obejmują wcześniej zatw
 
 **Razem zakupione materiały Action: 18,26 zł.** Pozostało w dziale dokumentacja: **11,74 zł**.
 
-Łączna kwota **123,66 zł** zawiera zarówno zakupy opłacone, jak i zobowiązanie związane z pendrivem o niepotwierdzonej płatności; nie należy jej utożsamiać z niezależnie zweryfikowanym wypływem gotówki. Pozostałe niezaangażowane środki wynoszą **176,34 zł**.
+Łączna kwota **123,66 zł** zawiera zarówno zakupy opłacone, jak i zobowiązanie związane z pendrivem o niepotwierdzonej płatności; nie należy jej utożsamiać z niezależnie zweryfikowanym wypływem gotówki. Potwierdzone płatności wynoszą **86,78 zł**. Poza rezerwą strategiczną dostępne jest **16,34 zł** z **176,34 zł** wolnego limitu.
+
+Aktualne dokumenty: [aneks nr 4 (Word)](Aneks_4_Zakupy_Action_2026-11-12.docx) oraz [centralny rejestr (Excel)](Centralny_Rejestr_Imperium_Andromedy_2026-11-12.xlsx).
 
 Źródłem informacji o zakupach są oświadczenia Cesarza. Stan nie był niezależnie uzgadniany z wyciągami bankowymi. Paragony i dane osobowe powinny być przechowywane prywatnie.
 
