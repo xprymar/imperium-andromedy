@@ -1,9 +1,9 @@
 # IMPERIUM ANDROMEDY
-## Skarb Imperialny — sprawozdanie końcowe z wykonania budżetu Fazy I
+## Bilans końcowy Fazy I
 **Sygnatura:** IA-FIN-RAP/001/2026  
 **Dzień bilansowy:** 12 listopada 2026 r.  
 **Okres rozliczenia:** 10–12 listopada 2026 r.  
-**Status:** sporządzone i przedłożone do zatwierdzenia przez Cesarza Jakuba I; nie jest dekretem zamykającym Fazę I.
+**Status:** przedłożone do zatwierdzenia przez Cesarza Jakuba I. Formalne zakończenie Fazy I wymaga odrębnej decyzji.
 
 ### 1. Podstawa i zakres
 Niniejsze sprawozdanie stanowi wewnętrzne, kasowo-budżetowe rozliczenie Fazy I przedsięwzięcia Imperium Andromedy, sporządzone na podstawie zatwierdzonego budżetu 300,00 zł, zmian alokacji i sześciu pozycji rejestru wydatków IA-FIN/001–006/2026. Nie jest ustawowym bilansem rachunkowym ani niezależnie zbadanym sprawozdaniem finansowym.
@@ -48,4 +48,4 @@ Proponuje się **przyjąć wykonanie finansowe Fazy I na 12.11.2026 r.** i zacho
 **Zatwierdzenie:** ___________________________  
 **Data zatwierdzenia:** ______________________  
 
-*Archiwum Imperialne, Tom I (2026). Wersja 1.0, 12.11.2026.*
+*Archiwum Imperialne, Tom I (2026). Wersja 1.1, 12.11.2026.*

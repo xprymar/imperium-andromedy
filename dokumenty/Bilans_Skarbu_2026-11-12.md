@@ -25,6 +25,8 @@ Kapitał Fazy I: **300,00 zł**. Obowiązujące limity obejmują wcześniej zatw
 
 Wszystkie zakupy o wartości **123,66 zł** są opłacone według oświadczeń Cesarza; płatność za pendrive została dokonana przy zamówieniu **11.11.2026** i potwierdzona w rozmowie **12.11.2026**. Nie jest to niezależny audyt rachunku bankowego. Dostawy zamówionych urządzeń pozostają do potwierdzenia. Poza rezerwą strategiczną dostępne jest **16,34 zł** z **176,34 zł** wolnego limitu.
 
+[Bilans końcowy Fazy I](/bilans-koncowy-fazy-i.html) · [wersja do druku (Word)](IA-FIN-RAP-001-2026_Bilans_Koncowy_Fazy_I.docx).
+
 Aktualne dokumenty: [aneks nr 4 (Word)](Aneks_4_Zakupy_Action_2026-11-12.docx) oraz [centralny rejestr (Excel)](Centralny_Rejestr_Imperium_Andromedy_2026-11-12.xlsx).
 
 Źródłem informacji o zakupach są oświadczenia Cesarza. Stan nie był niezależnie uzgadniany z wyciągami bankowymi. Paragony i dane osobowe powinny być przechowywane prywatnie.
