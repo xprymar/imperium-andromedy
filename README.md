@@ -2,7 +2,7 @@
 
 **Wersja:** 1.4 (12 listopada 2026 r.)\
 **Stan:** strona opublikowana pod https://imperiumandromedy.pl, domena i HTTPS aktywne.  
-**Zakupy i zobowiązania projektu (12.11.2026):** 123,66 zł; środki niezaangażowane 176,34 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł oraz zakupy Action 18,26 zł (kartki samoprzylepne 3,15 zł, koszulki do segregatora 100 szt. 8,32 zł, segregator 6,79 zł). Pendrive zamówiono, płatność do potwierdzenia; dostaw obu urządzeń nie potwierdzono.  
+**Opłacone zakupy projektu (12.11.2026):** 123,66 zł; środki niezaangażowane 176,34 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł oraz zakupy Action 18,26 zł (kartki samoprzylepne 3,15 zł, koszulki do segregatora 100 szt. 8,32 zł, segregator 6,79 zł). Pendrive opłacono przy zamówieniu 11.11.2026 (potwierdzenie Cesarza z 12.11); dostaw obu urządzeń nie potwierdzono.  
 **Język:** polski.
 
 ## Zawartość
@@ -47,7 +47,7 @@ Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.c
 
 ## Infrastruktura cyfrowa w budżecie Fazy I
 
-W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Domenę opłacono: 20,53 zł. Pendrive Kingston 64 GB zamówiono za 36,88 zł z dostawą (26,49 zł + 10,39 zł). Razem zakupy IT 57,41 zł, pozostaje 2,59 zł. Płatność pendrive’a wymaga potwierdzenia. Hosting GitHub Pages jest bezpłatny.
+W przyjętym planie Fazy I przydzielono **60 zł** na infrastrukturę cyfrową: domena `.pl` (limit 20,53 zł), pamięć USB (30,99 zł) i techniczne koszty/dostawę (8,48 zł). Domenę opłacono: 20,53 zł. Pendrive Kingston 64 GB zamówiono za 36,88 zł z dostawą (26,49 zł + 10,39 zł). Razem zakupy IT 57,41 zł, pozostaje 2,59 zł. Płatność za pendrive została dokonana 11.11.2026 przy składaniu zamówienia (potwierdzona przez Cesarza 12.11.2026). Hosting GitHub Pages jest bezpłatny.
 
 
 ## Aktualizacja Skarbu 11.11.2026
@@ -61,7 +61,7 @@ Polityka CSP w dokumentach HTML dopuszcza skrypty, arkusze stylów i obrazy z do
 
 ## Aktualizacja Skarbu 12.11.2026
 
-Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączny koszt zakupów i zobowiązań Fazy I wzrósł do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Dotychczasowe zobowiązanie za pendrive pozostaje ujęte w koszcie zakupów, ale płatność nadal wymaga potwierdzenia.
+Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączny koszt zakupów i zobowiązań Fazy I wzrósł do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Pendrive opłacono w dniu zamówienia 11.11.2026; wszystkie zakupy Fazy I na 12.11.2026 zostały opłacone, łącznie 123,66 zł. Odbiór urządzeń pozostaje do potwierdzenia.
 
 ## Status Archiwum Imperialnego — 12.11.2026
 
