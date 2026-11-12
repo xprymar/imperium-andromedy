@@ -66,3 +66,7 @@ Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne *
 ## Status Archiwum Imperialnego — 12.11.2026
 
 Cesarz zgłosił ukończenie fizycznego Archiwum Imperialnego (Tom I). Zapis oparty jest na deklaracji założyciela, bez niezależnej weryfikacji zawartości segregatora. Nie potwierdzono jeszcze wykonania kopii zapasowej na zamówionym pendrivie. Zakończenie Fazy I nadal wymaga zamknięcia bilansu finansowego; nie ogłoszono jej formalnie zakończonej.
+
+## Sprawozdanie końcowe finansów Fazy I — 12.11.2026
+
+Sporządzono [IA-FIN-RAP/001/2026](dokumenty/Sprawozdanie_Finansowe_Fazy_I_2026-11-12.md) i przedłożono Cesarzowi do zatwierdzenia. Rozliczenie kasowo-budżetowe: zatwierdzony limit **300,00 zł**, wszystkie sześć opłaconych pozycji **123,66 zł**, niewykorzystane środki **176,34 zł**, w tym rezerwa **160,00 zł**. Wszelkie limity działów zostały zachowane. Przyszła dostawa pendrive'a zapowiedziana na **13.11.2026**; nie potwierdzono jeszcze odbioru ani wykonania kopii cyfrowej. Sporządzenie sprawozdania nie oznacza zatwierdzenia przez Cesarza, formalnego zamknięcia Fazy I ani rozpoczęcia Fazy II. Wersja Word dokumentu została sporządzona osobno do druku w Archiwum Imperialnym.
