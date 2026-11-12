@@ -1,8 +1,8 @@
 # Imperium Andromedy — oficjalna witryna projektu (Etap II)
 
-**Wersja:** 1.3 (11 listopada 2026 r.)\
+**Wersja:** 1.4 (12 listopada 2026 r.)\
 **Stan:** strona opublikowana pod https://imperiumandromedy.pl, domena i HTTPS aktywne.  
-**Zakupy projektu (11.11.2026):** 105,40 zł; środki niezaangażowane 194,60 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł. Pendrive zamówiono, płatność do potwierdzenia; dostaw obu urządzeń nie potwierdzono.  
+**Zakupy i zobowiązania projektu (12.11.2026):** 123,66 zł; środki niezaangażowane 176,34 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł oraz zakupy Action 18,26 zł (kartki samoprzylepne 3,15 zł, koszulki do segregatora 100 szt. 8,32 zł, segregator 6,79 zł). Pendrive zamówiono, płatność do potwierdzenia; dostaw obu urządzeń nie potwierdzono.  
 **Język:** polski.
 
 ## Zawartość
@@ -34,6 +34,10 @@ Następnie otwórz `http://localhost:8000/`.
 4. Po opublikowaniu witryna będzie dostępna pod adresem `https://NAZWA_UŻYTKOWNIKA.github.io/imperium-andromedy/` (zależnie od nazwy repozytorium).
 5. Opcjonalnie kup domenę `.pl` i ustaw ją w **Settings → Pages → Custom domain** oraz u rejestratora domeny. **Nie rób tego, zanim nie zdecydujesz o wydatku i nie sprawdzisz dostępności domeny**.
 
+### Aktualny bilans i archiwum
+
+Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.csv` oraz `dokumenty/Bilans_Skarbu_2026-11-12.md`. Bilans z 11.11.2026 zachowano jako historyczny. Pliki DOCX i XLSX z 11.11.2026 są **historycznymi migawkami** i nie uwzględniają późniejszych zakupów Action; bieżąca ewidencja jest w CSV i na stronie `finanse.html`.
+
 ### Ważne
 
 - Nie przesyłaj do publicznego repozytorium wewnętrznego rejestru obywateli lub prywatnej księgowości bez sprawdzenia danych.
@@ -53,3 +57,8 @@ Cesarz zatwierdził przesunięcie 20 zł z rezerwy do badań. Obecne limity: rez
 ## Zabezpieczenia witryny
 
 Polityka CSP w dokumentach HTML dopuszcza skrypty, arkusze stylów i obrazy z domeny witryny. Polityka no-referrer ogranicza przekazywanie adresu odwiedzanej strony do innych serwisów. Przekierowanie HTTP na HTTPS obsługuje GitHub Pages.
+
+
+## Aktualizacja Skarbu 12.11.2026
+
+Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączny koszt zakupów i zobowiązań Fazy I wzrósł do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Dotychczasowe zobowiązanie za pendrive pozostaje ujęte w koszcie zakupów, ale płatność nadal wymaga potwierdzenia.
