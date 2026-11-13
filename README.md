@@ -99,3 +99,8 @@ Projekt MEDA prowadzony przez Departament Badań Kosmicznych. [MEDA 0.1](meda-0-
 ## MEDA 0.1 — ukończenie pierwszego testu (13.11.2026)
 
 Cesarz Jakub I po wykonaniu instrukcji zgłosił: „Wszystko zadziałało”. Na tej podstawie odnotowano **pomyślne ukończenie MEDA 0.1**, tj. uruchomienie MicroPythona oraz 10 kontrolowanych błysków wbudowanej LED na Raspberry Pi Pico 2 WH. Wpis w [dzienniku IA–MEDA–OBS/001/2026](dokumenty/IA-MEDA-OBS-001-2026_Dziennik_uruchomienia.md) ma charakter meldunku wykonawcy. Szczegóły firmware i dokładna godzina nie zostały przekazane. [Strona MEDA 0.1](meda-0-1.html) ma status zakończony; **MEDA 1.0 (Morse) pozostaje do wykonania**. Brak wydatków Fazy II; kopia archiwum na pendrivie wciąż niepotwierdzona.
+
+
+## MEDA 1.0 — nadajnik Morse'a: przygotowanie 13.11.2026
+
+Kontynuując wykonany test MEDA 0.1, Departament Badań Kosmicznych przygotował [program MicroPython](programy/meda/meda_1_0_morse.py), [instrukcję na stronie](meda-1-0.html) i [dziennik IA–MEDA–OBS/002/2026](dokumenty/IA-MEDA-OBS-002-2026_Dziennik_Morse.md). Wiadomość: `IMPERIUM ANDROMEDY JAKUB I ZIEMIA 10 11 2026`. Sterowanie: START, TEMPO 5–25 WPM, STATUS, STOP; Ctrl+C w trakcie emisji. Sukces wymaga trzech fizycznie zaobserwowanych i potwierdzonych emisji; **aktualny status 0/3, testy NIEPOTWIERDZONE**. Dalsze wydatki: 0,00 zł. To lokalny test komunikacji optycznej, nie emisja do M31.
