@@ -82,3 +82,8 @@ Cesarz potwierdził fizyczny odbiór i rozpakowanie Raspberry Pi Pico 2 WH, zaku
 
 
 Cesarz potwierdził odbiór pamięci USB Kingston DataTraveler Exodia M 64 GB. W tym samym dniu potwierdził również odbiór i rozpakowanie Raspberry Pi Pico 2 WH. Tym samym wszystkie zakupione elementy Fazy I zostały dostarczone albo udostępnione (domena, wyposażenie Action, płytka i pamięć USB). Status wykonania kopii zapasowej archiwum cyfrowego: **do potwierdzenia**. Odbiór nie powoduje ponownego naliczenia kosztów; pozostaje 123,66 zł wydatków i 176,34 zł niewykorzystanych środków. Bilans końcowy datowany na 12.11.2026 jest historycznym stanem na dzień bilansowy i nie należy go zmieniać wstecz.
+
+
+## Formalne zamknięcie Fazy I — 13.11.2026
+
+**DEKRET IA-DEC/004/2026 — ZATWIERDZONY.** Cesarz Jakub I decyzją z **13 listopada 2026 r.** zatwierdził bilans końcowy [IA-FIN-RAP/001/2026](dokumenty/Sprawozdanie_Finansowe_Fazy_I_2026-11-12.md) ze stanem na 12.11.2026 i **formalnie zakończył Fazę I — Organizacja ziemskiej administracji i dokumentacji**. Tekst aktu: [Dekret Imperialny nr 004/2026](dokumenty/Dekret_Imperialny_004_2026.md) i [wersja na stronie](dekret-004-2026.html). Budżet 300,00 zł, wydatki opłacone 123,66 zł, pozostało 176,34 zł (w tym nienaruszona rezerwa 160,00 zł). Zakupy w całości odebrane 13.11.2026 lub wcześniej; nadal **nie potwierdzono kopii archiwum na pendrivie ani testu MEDA 0.1**. Wcześniejsze informacje o niezatwierdzonym raporcie i otwartej Fazie I w rozdziałach datowanych 12.11.2026 są historycznym zapisem stanu sprzed dekretu. **Faza II nie została otwarta, nie przydzielono nowego budżetu ani nie zatwierdzono nowych zakupów.**
