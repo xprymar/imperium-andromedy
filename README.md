@@ -77,4 +77,8 @@ Cesarz potwierdził fizyczny odbiór i rozpakowanie Raspberry Pi Pico 2 WH, zaku
 
 ## Dostawa pendrive'a i kompletność zakupów — 13.11.2026
 
+**Protokół odbioru:** [IA-ARC-OD/001/2026](dokumenty/Protokol_Odbioru_Wyposazenia_2026-11-13.md) — dokumentuje odbiór dwóch urządzeń bez utożsamiania go z zakończeniem testów i archiwizacji.
+
+
+
 Cesarz potwierdził odbiór pamięci USB Kingston DataTraveler Exodia M 64 GB. W tym samym dniu potwierdził również odbiór i rozpakowanie Raspberry Pi Pico 2 WH. Tym samym wszystkie zakupione elementy Fazy I zostały dostarczone albo udostępnione (domena, wyposażenie Action, płytka i pamięć USB). Status wykonania kopii zapasowej archiwum cyfrowego: **do potwierdzenia**. Odbiór nie powoduje ponownego naliczenia kosztów; pozostaje 123,66 zł wydatków i 176,34 zł niewykorzystanych środków. Bilans końcowy datowany na 12.11.2026 jest historycznym stanem na dzień bilansowy i nie należy go zmieniać wstecz.
