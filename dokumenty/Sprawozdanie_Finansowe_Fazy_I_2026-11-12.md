@@ -5,6 +5,8 @@
 **Okres rozliczenia:** 10–12 listopada 2026 r.  
 **Status:** przedłożone do zatwierdzenia przez Cesarza Jakuba I. Formalne zakończenie Fazy I wymaga odrębnej decyzji.
 
+> **Aktualizacja po dniu bilansowym (13.11.2026):** oba urządzenia odebrano. Zobacz [protokół odbioru](Protokol_Odbioru_Wyposazenia_2026-11-13.md).
+
 ### 1. Podstawa i zakres
 Niniejsze sprawozdanie stanowi wewnętrzne, kasowo-budżetowe rozliczenie Fazy I przedsięwzięcia Imperium Andromedy, sporządzone na podstawie zatwierdzonego budżetu 300,00 zł, zmian alokacji i sześciu pozycji rejestru wydatków IA-FIN/001–006/2026. Nie jest ustawowym bilansem rachunkowym ani niezależnie zbadanym sprawozdaniem finansowym.
 

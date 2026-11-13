@@ -1,6 +1,6 @@
 # Imperium Andromedy — oficjalna witryna projektu (Etap II)
 
-**Wersja:** 1.4 (12 listopada 2026 r.)\
+**Wersja:** 1.5 (13 listopada 2026 r.)\
 **Stan:** strona opublikowana pod https://imperiumandromedy.pl, domena i HTTPS aktywne.  
 **Opłacone zakupy projektu (12.11.2026):** 123,66 zł; środki niezaangażowane 176,34 zł. Domena 20,53 zł, MEDA z dostawą 47,99 zł, Kingston DataTraveler Exodia M 64 GB z dostawą 36,88 zł oraz zakupy Action 18,26 zł (kartki samoprzylepne 3,15 zł, koszulki do segregatora 100 szt. 8,32 zł, segregator 6,79 zł). Pendrive opłacono przy zamówieniu 11.11.2026 (potwierdzenie Cesarza z 12.11); odbiór obu urządzeń potwierdzono 13.11.2026.  
 **Język:** polski.
@@ -36,7 +36,7 @@ Następnie otwórz `http://localhost:8000/`.
 
 ### Aktualny bilans i archiwum
 
-Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.csv` oraz `dokumenty/Bilans_Skarbu_2026-11-12.md`. Bilans z 11.11.2026 zachowano jako historyczny. Pliki DOCX i XLSX z 11.11.2026 są **historycznymi migawkami** i nie uwzględniają późniejszych zakupów Action; bieżąca ewidencja jest w CSV i w rejestrze Excel z 12.11.2026. Aneks nr 4 w formacie Word jest dostępny na stronie Skarbu i w Archiwum.
+Bieżące pliki tekstowe: `dane/ewidencja_wydatkow.csv`, `dane/budzet_aktualny.csv` oraz `dokumenty/Bilans_Skarbu_2026-11-12.md`. Bilans z 11.11.2026 zachowano jako historyczny. Pliki DOCX i XLSX z 11.11.2026 są **historycznymi migawkami** i nie uwzględniają późniejszych zakupów Action; bieżąca ewidencja jest w CSV i w [rejestrze Excel z 13.11.2026](dokumenty/Centralny_Rejestr_Imperium_Andromedy_2026-11-13.xlsx). Aneks nr 4 w formacie Word jest dostępny na stronie Skarbu i w Archiwum.
 
 ### Ważne
 

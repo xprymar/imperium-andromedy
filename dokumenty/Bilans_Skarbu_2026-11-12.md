@@ -27,7 +27,9 @@ Wszystkie zakupy o wartości **123,66 zł** są opłacone według oświadczeń C
 
 [Bilans końcowy Fazy I](/bilans-koncowy-fazy-i.html) · [wersja do druku (Word)](IA-FIN-RAP-001-2026_Bilans_Koncowy_Fazy_I.docx).
 
-Aktualne dokumenty: [aneks nr 4 (Word)](Aneks_4_Zakupy_Action_2026-11-12.docx) oraz [centralny rejestr (Excel)](Centralny_Rejestr_Imperium_Andromedy_2026-11-12.xlsx).
+**Po dniu bilansowym (13.11.2026):** odebrano płytkę MEDA i pendrive. Szczegóły zawiera [protokół odbioru](Protokol_Odbioru_Wyposazenia_2026-11-13.md).
+
+Dokumenty z 12.11.2026: [aneks nr 4 (Word)](Aneks_4_Zakupy_Action_2026-11-12.docx) oraz [centralny rejestr (Excel)](Centralny_Rejestr_Imperium_Andromedy_2026-11-12.xlsx).
 
 Źródłem informacji o zakupach są oświadczenia Cesarza. Stan nie był niezależnie uzgadniany z wyciągami bankowymi. Paragony i dane osobowe powinny być przechowywane prywatnie.
 
