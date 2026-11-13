@@ -51,3 +51,10 @@ Proponuje się **przyjąć wykonanie finansowe Fazy I na 12.11.2026 r.** i zacho
 **Data zatwierdzenia:** ______________________  
 
 *Archiwum Imperialne, Tom I (2026). Wersja 1.1, 12.11.2026.*
+
+
+---
+
+### Adnotacja zatwierdzająca — 13 listopada 2026 r.
+
+**Cesarz Jakub I zatwierdził niniejszy bilans końcowy decyzją z 13.11.2026 r., utrwaloną w [Dekrecie Imperialnym IA-DEC/004/2026](Dekret_Imperialny_004_2026.md).** Z tą datą zakończono Fazę I. Dzień bilansowy pozostaje niezmieniony: **12.11.2026**. Wydatki: **123,66 zł**, niewykorzystane środki: **176,34 zł**, w tym rezerwa strategiczna **160,00 zł**. W dniu 13.11.2026 odebrano płytkę MEDA i pendrive, co zapisano w protokole odbioru; wykonania kopii zapasowej na pendrivie nie potwierdzono. Faza II nie została jeszcze rozpoczęta.
