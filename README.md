@@ -61,7 +61,7 @@ Polityka CSP w dokumentach HTML dopuszcza skrypty, arkusze stylów i obrazy z do
 
 ## Aktualizacja Skarbu 12.11.2026
 
-Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączne wydatki Fazy I wzrosły do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Pendrive opłacono w dniu zamówienia 11.11.2026; wszystkie zakupy Fazy I na 12.11.2026 zostały opłacone, łącznie 123,66 zł. Odbiór urządzeń pozostaje do potwierdzenia.
+Cesarz przekazał informację o zakupie w sklepie Action: kartki samoprzylepne **3,15 zł**, koszulki do segregatora (100 szt.) **8,32 zł** i segregator **6,79 zł**. Łącznie **18,26 zł** ujęte w dziale dokumentacja, identyfikatory **IA-FIN/004–006/2026**. W dziale dokumentacja pozostało **11,74 zł** z limitu 30,00 zł. Łączne wydatki Fazy I wzrosły do **123,66 zł**, a niezaangażowane środki wynoszą **176,34 zł**. Pendrive opłacono w dniu zamówienia 11.11.2026; wszystkie zakupy Fazy I na 12.11.2026 zostały opłacone, łącznie 123,66 zł. Odbiór płytki MEDA potwierdzono 13.11.2026. Dostawa pendrive'a i wykonanie kopii archiwum wymagają osobnego potwierdzenia.
 
 ## Status Archiwum Imperialnego — 12.11.2026
 
@@ -70,3 +70,7 @@ Cesarz zgłosił ukończenie fizycznego Archiwum Imperialnego (Tom I). Zapis opa
 ## Sprawozdanie końcowe finansów Fazy I — 12.11.2026
 
 Sporządzono [IA-FIN-RAP/001/2026](dokumenty/Sprawozdanie_Finansowe_Fazy_I_2026-11-12.md) i przedłożono Cesarzowi do zatwierdzenia. Rozliczenie kasowo-budżetowe: zatwierdzony limit **300,00 zł**, wszystkie sześć opłaconych pozycji **123,66 zł**, niewykorzystane środki **176,34 zł**, w tym rezerwa **160,00 zł**. Wszelkie limity działów zostały zachowane. Przyszła dostawa pendrive'a zapowiedziana na **13.11.2026**; nie potwierdzono jeszcze odbioru ani wykonania kopii cyfrowej. Sporządzenie sprawozdania nie oznacza zatwierdzenia przez Cesarza, formalnego zamknięcia Fazy I ani rozpoczęcia Fazy II. Bilans jest dostępny [na stronie](bilans-koncowy-fazy-i.html) oraz [w wersji Word do druku](dokumenty/IA-FIN-RAP-001-2026_Bilans_Koncowy_Fazy_I.docx). Status płatności uzgodniono z bieżącym rejestrem Excel i aneksem nr 4.
+
+## Odbiór urządzenia MEDA — 13.11.2026
+
+Cesarz potwierdził fizyczny odbiór i rozpakowanie Raspberry Pi Pico 2 WH, zakupionego za 47,99 zł z dostawą (IA-FIN/002/2026). Status sprzętu: **odebrane; czeka na konfigurację i testy MEDA 0.1**. Nie wpisujemy jeszcze wyniku eksperymentu, ponieważ nie został wykonany lub potwierdzony. Zakup był rozliczony wcześniej i odbiór nie zmienia salda Skarbu: 123,66 zł wydatków; 176,34 zł wolnego limitu. Nie potwierdzono odbioru pendrive'a.
