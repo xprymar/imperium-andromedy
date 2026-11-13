@@ -87,3 +87,10 @@ Cesarz potwierdził odbiór pamięci USB Kingston DataTraveler Exodia M 64 GB. W
 ## Formalne zamknięcie Fazy I — 13.11.2026
 
 **DEKRET IA-DEC/004/2026 — ZATWIERDZONY.** Cesarz Jakub I decyzją z **13 listopada 2026 r.** zatwierdził bilans końcowy [IA-FIN-RAP/001/2026](dokumenty/Sprawozdanie_Finansowe_Fazy_I_2026-11-12.md) ze stanem na 12.11.2026 i **formalnie zakończył Fazę I — Organizacja ziemskiej administracji i dokumentacji**. Tekst aktu: [Dekret Imperialny nr 004/2026](dokumenty/Dekret_Imperialny_004_2026.md) i [wersja na stronie](dekret-004-2026.html). Budżet 300,00 zł, wydatki opłacone 123,66 zł, pozostało 176,34 zł (w tym nienaruszona rezerwa 160,00 zł). Zakupy w całości odebrane 13.11.2026 lub wcześniej; nadal **nie potwierdzono kopii archiwum na pendrivie ani testu MEDA 0.1**. Wcześniejsze informacje o niezatwierdzonym raporcie i otwartej Fazie I w rozdziałach datowanych 12.11.2026 są historycznym zapisem stanu sprzed dekretu. **Faza II nie została otwarta, nie przydzielono nowego budżetu ani nie zatwierdzono nowych zakupów.**
+
+
+## Inauguracja Fazy II i przygotowanie MEDA 0.1 — 13.11.2026
+
+**Faza II została zatwierdzona i uruchomiona** na podstawie wyraźnej decyzji Cesarza Jakuba I. [Dekret IA-DEC/005/2026](dokumenty/Dekret_Imperialny_005_2026.md) zatwierdza [plan IA–PLAN/II–001/2026](dokumenty/Plan_Strategiczny_Fazy_II_2026-11-13.md), harmonogram 90 dni (13.11.2026–10.02.2027), limit 60,00 zł i wyodrębnienie poza budżetem II rezerwy 116,34 zł. **Wydatki Fazy II na start: 0,00 zł.** Alokacje: 35,00 zł MEDA; 5,00 zł infrastruktura i bezpieczeństwo; 10,00 zł dokumentacja; 10,00 zł bufor. Żadne zakupy nie zostały automatycznie zatwierdzone. Historyczny bilans Fazy I pozostaje bez zmian.
+
+Projekt MEDA prowadzony przez Departament Badań Kosmicznych. [MEDA 0.1](meda-0-1.html): przygotowano [kod MicroPython](programy/meda/meda_0_1_hello.py) i [dziennik IA–MEDA–OBS/001](dokumenty/IA-MEDA-OBS-001-2026_Dziennik_uruchomienia.md), ale **nie potwierdzono uruchomienia ani 10 błysków LED**. Firmware dla Pico 2 WH: stabilna wersja z oficjalnego https://micropython.org/download/RPI_PICO2_W/; środowisko Thonny: https://thonny.org/.
