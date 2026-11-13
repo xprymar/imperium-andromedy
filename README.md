@@ -104,3 +104,8 @@ Cesarz Jakub I po wykonaniu instrukcji zgłosił: „Wszystko zadziałało”. N
 ## MEDA 1.0 — nadajnik Morse'a: przygotowanie 13.11.2026
 
 Kontynuując wykonany test MEDA 0.1, Departament Badań Kosmicznych przygotował [program MicroPython](programy/meda/meda_1_0_morse.py), [instrukcję na stronie](meda-1-0.html) i [dziennik IA–MEDA–OBS/002/2026](dokumenty/IA-MEDA-OBS-002-2026_Dziennik_Morse.md). Wiadomość: `IMPERIUM ANDROMEDY JAKUB I ZIEMIA 10 11 2026`. Sterowanie: START, TEMPO 5–25 WPM, STATUS, STOP; Ctrl+C w trakcie emisji. Sukces wymaga trzech fizycznie zaobserwowanych i potwierdzonych emisji; **aktualny status 0/3, testy NIEPOTWIERDZONE**. Dalsze wydatki: 0,00 zł. To lokalny test komunikacji optycznej, nie emisja do M31.
+
+
+## MEDA 1.0 — zakończenie testów (13.11.2026)
+
+Po przeprowadzeniu instrukcji [MEDA 1.0](meda-1-0.html) operator przekazał meldunek „Przebiegło pomyślnie”. W kontekście polecenia wykonania trzech emisji odnotowano **3/3 sesje jako pomyślne według zbiorczego meldunku operatora**. Szczegóły w [dzienniku IA–MEDA–OBS/002/2026](dokumenty/IA-MEDA-OBS-002-2026_Dziennik_Morse.md). Nie uzyskano danych o dokładnych godzinach ani tempie; nie przeprowadzono niezależnego odbioru sygnału. MEDA 0.1 i 1.0 zakończone; MEDA 1.5, ewentualny panel lokalny Wi-Fi, pozostaje następnym opcjonalnym krokiem. Budżet Fazy II nie zmienił się: 60,00 zł limitu, 0,00 zł wydatków; kopia cyfrowa archiwum na pendrivie nadal niepotwierdzona.
