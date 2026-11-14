@@ -114,3 +114,8 @@ Po przeprowadzeniu instrukcji [MEDA 1.0](meda-1-0.html) operator przekazał meld
 ## MEDA 1.5 — przygotowanie panelu Wi-Fi (13.11.2026)
 
 Po ukończeniu MEDA 1.0 utworzono [program panelu Wi-Fi](programy/meda/meda_1_5_panel_wifi.py), [wzór pliku danych sieciowych](programy/meda/wifi_local_PRZYKLAD.py), [dziennik IA–MEDA–OBS/003/2026](dokumenty/IA-MEDA-OBS-003-2026_Dziennik_WiFi.md) i [instrukcję na stronie](meda-1-5.html). Wersja testowa łączy się z prywatną siecią Wi-Fi 2,4 GHz i udostępnia lokalne polecenia LED ON, LED OFF, MORSE (`MEDA ANDROMEDA`), STOP. Rzeczywiste hasło Wi-Fi wolno umieścić wyłącznie lokalnie w pliku `wifi_local.py` na płytce; nie publikować tego pliku. Panel HTTP nie posiada logowania/HTTPS i nie jest przeznaczony do publicznego Internetu. **Status testu: niepotwierdzony, 0/4.** Wydatki Fazy II wciąż 0,00 zł.
+
+
+## Diagnostyka MEDA 1.5 — bezpośredni punkt Wi-Fi Pico, 14.11.2026
+
+Telefon Android zgłaszał ERR_TOO_MANY_RETRIES przy próbie dostępu do serwera Pico na 192.168.18.110, podczas gdy komputer Ethernet otwierał stronę. Wszystkie urządzenia należały do 192.168.18.0/24. Zidentyfikowano router ARRIS TG6441B; izolacja AP pozostaje hipotezą, nie potwierdzonym stanem konfiguracji. Przygotowano [diagnostyczny serwer HTTP w trybie AP](programy/meda/meda_1_5_pico_ap_test.py) i [protokół testu](dokumenty/IA-MEDA-OBS-004-2026_Test_Pico_AP.md). Wymaga prywatnego pliku `meda_ap_config.py` na Pico, z indywidualnym hasłem; nie publikować danych dostępowych. **Status: tylko przygotowano, wynik niepotwierdzony.** Bez nowych kosztów i bez zmian w zatwierdzonym programie MEDA 1.5.
